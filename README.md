@@ -28,14 +28,14 @@ npm install -g firebase-tools
 firebase login
 ```
 ## Answer few questions in CLI:
->Are you ready to proceed? (Y/n) Y
->What Firebase CLI features do you want to setup for this folder? Hosting
->What Firebase project do you want to associate as default? Choose your project or create a new one.
->What file should be used for Database Rules? Press ENTER
->What do you want to use as your public directory? (public) www
->Ionic 2 will publish the final files in /www/ directory.
->Configure as a single-page app (rewrite all urls to /index.html)? (y/N) y
-File www/index.html already exists. Overwrite? (y/N) N
+* Are you ready to proceed? (Y/n) Y
+* What Firebase CLI features do you want to setup for this folder? Hosting
+* What Firebase project do you want to associate as default? Choose your project or create a new one.
+* What file should be used for Database Rules? Press ENTER
+* What do you want to use as your public directory? (public) www
+* Ionic 2 will publish the final files in /www/ directory.
+* Configure as a single-page app (rewrite all urls to /index.html)? (y/N) y
+* File www/index.html already exists. Overwrite? (y/N) N
 
 # complete!
 
